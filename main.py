@@ -71,3 +71,4 @@ while True:
 
     else:
         print("Erreur : option invalide.")
+# Fonction de recherche ajoutée
